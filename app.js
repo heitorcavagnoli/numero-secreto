@@ -40,7 +40,7 @@ function verificarChute() {
 
 function gerarNumeroAleatorio() {
  
-    } else {
+    else {
         listaDeNumerosSorteados.push(numeroEscolhido);
         console.log(listaDeNumerosSorteados)
         return numeroEscolhido;
